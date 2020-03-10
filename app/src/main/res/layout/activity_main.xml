@@ -110,7 +110,7 @@
             android:layout_height="wrap_content"
             android:layout_row="0"
             android:layout_column="0"
-            android:onClick="cbMouth"
+            android:onClick="CheckBox"
             android:text="Mouth"
             android:visibility="visible" />
 
@@ -120,7 +120,7 @@
             android:layout_height="wrap_content"
             android:layout_row="1"
             android:layout_column="0"
-            android:onClick="cbArms"
+            android:onClick="CheckBox"
             android:text="Arms"
             android:visibility="visible" />
 
@@ -130,7 +130,7 @@
             android:layout_height="wrap_content"
             android:layout_row="2"
             android:layout_column="0"
-            android:onClick="cbEars"
+            android:onClick="CheckBox"
             android:text="Ears"
             android:visibility="visible" />
 
@@ -140,7 +140,7 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="0"
-            android:onClick="cbHat"
+            android:onClick="CheckBox"
             android:text="Hat"
             android:visibility="visible" />
 
@@ -150,7 +150,7 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="0"
-            android:onClick="cbEyebrow"
+            android:onClick="CheckBox"
             android:text="Eyebrow"
             android:visibility="visible" />
 
@@ -162,7 +162,7 @@
             android:layout_height="wrap_content"
             android:layout_row="0"
             android:layout_column="1"
-            android:onClick="cbEye"
+            android:onClick="CheckBox"
             android:text="Eye"
             android:visibility="visible" />
 
@@ -172,7 +172,7 @@
             android:layout_height="wrap_content"
             android:layout_row="1"
             android:layout_column="1"
-            android:onClick="cbGlasses"
+            android:onClick="CheckBox"
             android:text="Glasses"
             android:visibility="visible" />
 
@@ -182,7 +182,7 @@
             android:layout_height="wrap_content"
             android:layout_row="2"
             android:layout_column="1"
-            android:onClick="cbMustache"
+            android:onClick="CheckBox"
             android:text="Mustache"
             android:visibility="visible" />
 
@@ -192,7 +192,7 @@
             android:layout_height="wrap_content"
             android:layout_row="3"
             android:layout_column="1"
-            android:onClick="cbNose"
+            android:onClick="CheckBox"
             android:text="Nose"
             android:visibility="visible" />
 
@@ -202,7 +202,7 @@
             android:layout_height="wrap_content"
             android:layout_row="4"
             android:layout_column="1"
-            android:onClick="cbShoes"
+            android:onClick="CheckBox"
             android:text="Shoes"
             android:visibility="visible" />
     </GridLayout>
